@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579545372 source:/home/sirius/Projects/Algorithm/main.cpp
+	<iostream>
+	<fstream>
+	<strstream>
+	<vector>
+
